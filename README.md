@@ -15,5 +15,4 @@ Each burger in the waiting area also has a Devour it! button. When the user clic
 The app will store every burger in a database, whether devoured or not.
 
 Heroku App Link: https://eatdaburger7654.herokuapp.com/index
-
-images.githubusercontent.com/46644726/55603645-83019600-5720-11e9-80ab-8491aaf4e2a3.jpeg)
+(https://user-images.githubusercontent.com/46644726/55603720-f0adc200-5720-11e9-9f22-1dc364153b92.png)
